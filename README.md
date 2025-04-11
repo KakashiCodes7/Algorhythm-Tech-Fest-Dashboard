@@ -35,8 +35,6 @@
   
 ##📸 Screenshots
 
-![Image](https://github.com/user-attachments/assets/a814520f-26da-45e0-9875-eedd79e7d2f3)
-
 ![Image](https://github.com/user-attachments/assets/705adee5-9a34-4de9-a2a4-1ac1e884d501)
 
 ![Image](https://github.com/user-attachments/assets/70b1daa5-ce55-4b24-8c86-84124d8df8bf)
@@ -44,6 +42,8 @@
 ![Image](https://github.com/user-attachments/assets/30bea788-18f2-4a38-ba1b-a7e742e6db2c)
 
 ![Image](https://github.com/user-attachments/assets/4a84b05e-003b-4898-86d5-f83bec7e3438)
+
+![Image](https://github.com/user-attachments/assets/a814520f-26da-45e0-9875-eedd79e7d2f3)
 
 
 ## 🔍 Challenges Addressed
