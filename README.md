@@ -32,8 +32,12 @@
 - **Unit Testing**: Validate DAX measures against raw data.
 - **Integration Testing**: Ensure visuals sync with slicers and filters.
 - **User Testing**: Feedback-driven UI/UX refinement from fest organizers.
+
+## 👁️ Preview
+
+
   
-##📸 Screenshots
+## 📸 Screenshots
 
 ![Image](https://github.com/user-attachments/assets/705adee5-9a34-4de9-a2a4-1ac1e884d501)
 
